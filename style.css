@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Russo+One&family=Varela+Round&display=swap');
+
+.title {
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Russo One', sans-serif;
+    font-size: 80px;
+    color: white;
+    background: linear-gradient(#ff4000, #ff6a00);
+    border-bottom: #903c00 solid 10px;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+.list {
+    margin-bottom: 100px;
+}
+
+.image {
+    width: 60%;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    -webkit-transition: all;
+        transition: all 0.5s ease;
+}
+
+.image:hover {
+    width: 70%;
+}
+
+li {
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    color: white;
+    background: linear-gradient(#ff4000, #ff6a00);
+    border-bottom: #903c00 solid 5px;
+    border-radius: 25px;
+    width: 40%;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    list-style-type: none;
+    -webkit-transition: all;
+        transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+li:hover {
+    background: linear-gradient(#ff6a00, #ffd500);
+    border-bottom: #906e00 solid 5px;
+    width: 42%;
+    margin-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+p {
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    color: white;
+    padding: 20px;
+    background: linear-gradient(#ff4000, #ff6a00);
+    border-bottom: #903c00 solid 5px;
+    border-radius: 25px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+body {
+    background-image: url("background.png");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.link {
+    width: 70px;
+    height: 70px;
+    -webkit-transition: all;
+        transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+.link:hover {
+    width: 100px;
+    height: 100px;
+}
