@@ -105,7 +105,7 @@ body {
     
     .image {
       max-width: 100%;
-      border-radius: 0;
+      border-radius: 10px;
       margin-bottom: 30px;
     }
     
@@ -113,7 +113,7 @@ body {
       font-size: 30px;
       width: 80%;
       margin-bottom: 30px;
-      border-radius: 0;
+      border-radius: 10px;
       padding: 5px;
       border-bottom: none;
       text-align: center;
@@ -123,7 +123,7 @@ body {
       font-size: 30px;
       width: 90%;
       margin-bottom: 50px;
-      border-radius: 0;
+      border-radius: 10px;
       padding: 10px;
       border-bottom: none;
       text-align: center;
