@@ -114,8 +114,8 @@ body {
       width: 80%;
       margin-bottom: 30px;
       border-radius: 10px;
+      border-bottom: #903c00 solid 5px;
       padding: 5px;
-      border-bottom: none;
       text-align: center;
     }
     
@@ -124,8 +124,8 @@ body {
       width: 90%;
       margin-bottom: 50px;
       border-radius: 10px;
+      border-bottom: #903c00 solid 5px;
       padding: 10px;
-      border-bottom: none;
       text-align: center;
     }
     
